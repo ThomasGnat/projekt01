@@ -1,4 +1,4 @@
-# 🚀 Komendy Git
+# 🚀 Komendy Git Piotrek wyslij mi tu zad plsssssss
 
 Zbiór najważniejszych poleceń Git, pomocny przy codziennej pracy z repozytoriami.
 
